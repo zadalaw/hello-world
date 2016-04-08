@@ -1,2 +1,5 @@
 # hello-world
-First github repository
+
+Hello World! 
+I'm a GitHub newbie! 
+Once upon a time I learned FORTRAN programming. 
